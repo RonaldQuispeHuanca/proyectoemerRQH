@@ -1,8 +1,4 @@
-<%-- 
-    Document   : frmCurso
-    Created on : 30/08/2019, 06:07:44 AM
-    Author     : CesarCuellar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <script src="Js/funcionesCurso.js" type="text/javascript"></script>

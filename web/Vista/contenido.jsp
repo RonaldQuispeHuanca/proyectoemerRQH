@@ -1,8 +1,4 @@
-<%-- 
-    Document   : contenido
-    Created on : 30/08/2019, 06:15:08 AM
-    Author     : CesarCuellar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -5,10 +5,7 @@
  */
 package Modelo.Entidad;
 
-/**
- *
- * @author CesarCuellar
- */
+
 public class Curso {
     
     private int idCurso;

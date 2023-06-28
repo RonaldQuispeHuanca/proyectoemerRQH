@@ -22,11 +22,6 @@ import javax.ws.rs.PUT;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.core.MediaType;
 
-/**
- * REST Web Service
- *
- * @author CesarCuellar
- */
 @Path("/Aprendices/")
 @Produces("application/json")
 public class ServiciosWeb {

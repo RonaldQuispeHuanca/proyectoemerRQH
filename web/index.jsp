@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 24/08/2019, 09:13:23 AM
-    Author     : CesarCuellar
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

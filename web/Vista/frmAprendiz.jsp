@@ -1,8 +1,4 @@
-<%-- 
-    Document   : FrmAgregarAprendiz
-    Created on : 21/08/2019, 10:49:11 AM
-    Author     : CesarCuellar
---%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%
             //response.sendRedirect("index.jsp");

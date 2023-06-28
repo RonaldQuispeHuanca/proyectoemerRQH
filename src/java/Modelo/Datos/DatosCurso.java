@@ -13,10 +13,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
- * @author CesarCuellar
- */
+
 public class DatosCurso {
     private final Connection miConexion;
     private PreparedStatement ps;

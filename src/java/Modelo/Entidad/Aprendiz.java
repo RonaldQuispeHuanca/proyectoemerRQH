@@ -1,8 +1,5 @@
 package Modelo.Entidad;
-/**
- *
- * @author CesarCuellar
- */
+
 public class Aprendiz {
     private int idAprendiz;
     private String identificacion;

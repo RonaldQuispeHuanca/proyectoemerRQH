@@ -3,13 +3,28 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Modelo/Datos/Conexion.java</file>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Controlador/ServiciosWeb.java</file>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Modelo/Datos/DatosAprendiz.java</file>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Controlador/ApplicationConfig.java</file>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Controlador/ControllerAprendiz.java</file>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Controlador/ControllerCurso.java</file>
-            <file>file:/E:/GestionAprendicesSENA/src/java/Controlador/ControllerUsuario.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Datos/DatosAprendiz.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/encabezado.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Controlador/ServiciosWeb.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Controlador/ControllerCurso.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Controlador/ControllerUsuario.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Datos/DatosUsuario.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/frmCurso.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/menu.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/frmAprendiz.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Entidad/Curso.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Entidad/Aprendiz.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/index.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Controlador/ControllerAprendiz.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Entidad/Usuario.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/frmLogin.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Controlador/ApplicationConfig.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/piePagina.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Datos/DatosCurso.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/src/java/Modelo/Datos/Conexion.java</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/pruebaConexion.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/contenido.jsp</file>
+            <file>file:/E:/proyectoEmergentes2RQH/web/Vista/index.jsp</file>
         </group>
     </open-files>
 </project-private>

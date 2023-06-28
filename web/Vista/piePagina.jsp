@@ -1,8 +1,4 @@
-<%-- 
-    Document   : piePagina
-    Created on : 29/08/2019, 04:39:06 PM
-    Author     : CesarCuellar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <table class="table" style="width: 100%">

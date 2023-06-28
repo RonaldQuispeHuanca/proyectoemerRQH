@@ -1,8 +1,4 @@
-<%-- 
-    Document   : frmLogin
-    Created on : 6/09/2019, 04:13:45 PM
-    Author     : CesarCuellar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 

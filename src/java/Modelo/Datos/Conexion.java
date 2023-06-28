@@ -4,10 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- *
- * @author CesarCuellar
- */
+
 public class Conexion {
     private static Connection conexion;
     private static final String driver ="com.mysql.jdbc.Driver";

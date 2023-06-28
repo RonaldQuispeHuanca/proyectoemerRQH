@@ -8,10 +8,7 @@ package Controlador;
 import java.util.Set;
 import javax.ws.rs.core.Application;
 
-/**
- *
- * @author CesarCuellar
- */
+
 @javax.ws.rs.ApplicationPath("WebServices")
 public class ApplicationConfig extends Application {
 

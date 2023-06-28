@@ -9,10 +9,7 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- *
- * @author CesarCuellar
- */
+
 public class Usuario {
     private int idUsuario;
     private String login;

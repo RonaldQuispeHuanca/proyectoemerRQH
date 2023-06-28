@@ -1,8 +1,4 @@
-<%-- 
-    Document   : pruebaConexion
-    Created on : 21/08/2019, 07:27:00 AM
-    Author     : CesarCuellar
---%>
+
 
 <%@page import="java.text.SimpleDateFormat"%>
 <%@page import="Modelo.Datos.DatosAprendiz"%>

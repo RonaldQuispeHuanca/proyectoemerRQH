@@ -1,8 +1,4 @@
-<%-- 
-    Document   : menu
-    Created on : 30/08/2019, 05:59:09 AM
-    Author     : CesarCuellar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <nav class="navbar navbar-expand-md bg-info navbar-info sticky-top">                
@@ -12,7 +8,7 @@
                 <img src="Recursos/Imagenes/foto.jpg" alt="Logo" id="foto" style="width:40px;"> 
             </a>            
             <div class="dropdown-menu">
-                <b>César Cuéllar</b>
+                <b>Ronald Quispe</b>
                 <a class="dropdown-item " href="#">Actualizar Datos usuario</a>
                 <a class="dropdown-item" href="#">Salir</a>               
             </div>

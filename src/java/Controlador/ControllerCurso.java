@@ -18,10 +18,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author CesarCuellar
- */
+
 @WebServlet(name = "ControllerCurso", urlPatterns = {"/ControllerCurso"})
 public class ControllerCurso extends HttpServlet {
 

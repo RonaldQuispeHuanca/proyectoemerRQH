@@ -11,10 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- *
- * @author CesarCuellar
- */
+
 public class DatosUsuario {
     private final Connection miConexion;
     private PreparedStatement ps;
